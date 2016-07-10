@@ -1,3 +1,5 @@
 URL: /
 Version: 3.9.3
+URL: http://sqlite.com/2016/sqlite-amalgamation-3130000.zip
+Version: 3.13.0
 BugComponent: 24950
